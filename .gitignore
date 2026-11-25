@@ -3,6 +3,9 @@ node_modules
 .pnp/
 .pnp.*
 .yarn/*
+.agents/
+.claude/
+.windsurf/
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
@@ -57,3 +60,4 @@ temp/
 .DS_Store
 Thumbs.db
 Desktop.ini
+/generated/prisma
