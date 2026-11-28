@@ -61,3 +61,5 @@ temp/
 Thumbs.db
 Desktop.ini
 /generated/prisma
+
+/generated/prisma
